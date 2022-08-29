@@ -8,3 +8,6 @@ npm run dev
 
 To execute within golang
 go run .\main\server.go
+
+TODO:
+What I would like to do when I revisit is store my token within golang for added security. (If you see my token please use your own :))
